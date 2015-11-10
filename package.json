@@ -1,6 +1,6 @@
 {
   "name": "xml2json",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "XML <=> JSON mapping/converting library",
   "main": "xml2json.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/driannaude/x2js.git"
   },
-  "author": "",
+  "author": "Enatel Ltd.",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/driannaude/x2js/issues"
@@ -20,6 +20,7 @@
     "grunt": "^0.4.5",
     "grunt-bump": "^0.6.0",
     "grunt-contrib-uglify": "^0.10.0",
+    "grunt-jsbeautifier": "^0.2.10",
     "time-grunt": "^1.2.2"
   }
 }
