@@ -1,6 +1,6 @@
 {
-  "name": "xml2json",
-  "version": "1.1.9",
+  "name": "xmltojson",
+  "version": "1.1.10",
   "description": "XML <=> JSON mapping/converting library",
   "main": "xml2json.js",
   "scripts": {

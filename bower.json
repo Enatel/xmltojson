@@ -1,13 +1,24 @@
 {
-  "name": "abdmob/x2js",
-  "version": "1.1.9",
-  "main": "xml2json.min.js",
-  "description": "XML <=> JSON mapping/converting library",
-  "license": "Apache Licence v2",
+  "name": "xmltojson",
+  "version": "1.1.10",
+  "main": "src/x2js.js",
+  "authors": [
+    "Enatel Ltd."
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "angular-x2js",
+    "xml2json",
+    "xml",
+    "json"
+  ],
+  "homepage": "https://github.com/driannaude/x2js",
+  "moduleType": [],
   "ignore": [
-    ".hg*",
-    ".project",
-    "*.html",
-    "**/*.txt"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
