@@ -1,6 +1,6 @@
 {
   "name": "xmltojson",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "XML <=> JSON mapping/converting library",
   "main": "xml2json.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/driannaude/x2js.git"
+    "url": "git+https://github.com/driannaude/xmltojson.git"
   },
   "author": "Enatel Ltd.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/driannaude/x2js/issues"
+    "url": "https://github.com/Enatel/xmltojson/issues"
   },
-  "homepage": "https://github.com/driannaude/x2js#readme",
+  "homepage": "https://github.com/Enatel/xmltojson#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bump": "^0.6.0",

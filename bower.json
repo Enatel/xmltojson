@@ -1,7 +1,7 @@
 {
   "name": "xmltojson",
-  "version": "1.1.10",
-  "main": "src/x2js.js",
+  "version": "1.1.11",
+  "main": "src/xmltojson.js",
   "authors": [
     "Enatel Ltd."
   ],
@@ -12,7 +12,7 @@
     "xml",
     "json"
   ],
-  "homepage": "https://github.com/driannaude/x2js",
+  "homepage": "https://github.com/Enatel/xmltojson",
   "moduleType": [],
   "ignore": [
     "**/.*",
